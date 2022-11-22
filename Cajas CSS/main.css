@@ -1,0 +1,14 @@
+/*esta es una practica de cajas*/
+body{
+    background-color: #eee;
+}
+
+.caja{
+    margin: 8px;
+    padding: 8px;
+    border-style:inset;
+    background-color:aqua;
+    border-radius:8px;
+    height:100px;
+    width:100px;
+}

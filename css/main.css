@@ -1,0 +1,12 @@
+/*esto es mi primer CSS */
+body {
+    background-color:#eee;
+}
+
+#parrafo{
+    color:#ff0000;
+}
+
+.etiqueta{
+    color:#00aa00
+}
